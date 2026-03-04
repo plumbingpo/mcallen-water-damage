@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationmcallen.com/sitemap.xml
